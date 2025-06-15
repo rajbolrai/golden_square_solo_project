@@ -1,3 +1,5 @@
+import requests
+
 class Order:
     # User-facing properties:
     #   menu: Menu instance
